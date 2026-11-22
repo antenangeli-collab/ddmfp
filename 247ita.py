@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 import time
 
-MFPLINK = "https://hf.space"
+MFPLINK = "https://massimino94-ponte-tv2.hf.space"
 MFPPSW = "tv2026"
 
 # Costanti
